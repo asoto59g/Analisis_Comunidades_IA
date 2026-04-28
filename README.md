@@ -1,6 +1,6 @@
 # 🏙️ Aplicación de Análisis de Servicios en Comunidades (Open Source) Python
 
-<h2>🎥 Demo</h2>
+<h2>🎥 Video Demo</h2>
 
 <p>Haz clic en la imagen para ver el video en pantalla completa:</p>
 
