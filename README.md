@@ -1,4 +1,4 @@
-# 🏙️ Aplicación de Análisis de Servicios Comunitarios (Open Source) Python
+# 🏙️ Aplicación de Análisis de Servicios en Comunidades (Open Source) Python
 
 Esta herramienta avanzada permite a comunidades y gobiernos locales realizar un inventario automatizado de infraestructura urbana utilizando Inteligencia Artificial, Visión por Computadora y Datos Geoespaciales.
 
