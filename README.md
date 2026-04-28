@@ -1,4 +1,4 @@
-# 🏙️ Aplicación de Análisis de Servicios en Comunidades (Open Source) Python
+# 🏙️ Aplicación de Análisis de Servicios Comunitarios (Open Source)
 
 Esta herramienta avanzada permite a comunidades y gobiernos locales realizar un inventario automatizado de infraestructura urbana utilizando Inteligencia Artificial, Visión por Computadora y Datos Geoespaciales.
 
@@ -7,7 +7,7 @@ Esta herramienta avanzada permite a comunidades y gobiernos locales realizar un 
 *   **🗺️ Selección de Área de Alta Precisión:** Dibuja polígonos irregulares para un análisis espacial delimitado.
 *   **🤖 Arquitectura Dual-YOLO:**
     *   **Inferencia General (YOLO11x):** Detección de paradas de bus, mobiliario urbano y señalización.
-    *   **Inferencia Especializada:** Soporte para modelos `custom` de detección de huecos en vías (`pothole_model.pt`).
+    *   **Inferencia Especializada:** Soporte para modelos `custom` de detección de baches (`pothole_model.pt`).
 *   **🛣️ Análisis Multimodal de Vías:** 
     *   **Visión OpenCV:** Análisis de textura por bordes (Canny) para medir la rugosidad del asfalto en tiempo real.
     *   **Fusión de Datos OSM:** Integración de tags oficiales de superficie y suavidad.
@@ -32,6 +32,14 @@ Para analizar fotografías reales, ingresa tu Client Token en la barra lateral:
 1. Descarga el código y abre una terminal.
 2. Instala dependencias: `py -m pip install -r requirements.txt`
 3. Ejecuta: `py -m streamlit run app.py`
+
+## ☁️ Despliegue en la Web (Streamlit Cloud)
+
+Para que cualquier persona pueda acceder a tu herramienta a través de internet:
+1.  **Sube el código a GitHub:** Crea un repositorio y sube todos los archivos de esta carpeta.
+2.  **Conecta con Streamlit:** Entra en [share.streamlit.io](https://share.streamlit.io/) e inicia sesión con tu cuenta de GitHub.
+3.  **Nueva Aplicación:** Haz clic en "New app", selecciona tu repositorio y el archivo principal `app.py`.
+4.  **Despliegue:** Haz clic en "Deploy". Streamlit instalará automáticamente las dependencias y te dará una URL pública para tu herramienta.
 
 ---
 ## 💰 Opción Premium: Integración con Google Street View
