@@ -1,10 +1,12 @@
 # 🏙️ Aplicación de Análisis de Servicios en Comunidades (Open Source) Python
 
-## 🎥 Demo
+<h2>🎥 Demo</h2>
 
-Haz clic en la imagen para ver el video:
+<p>Haz clic en la imagen para ver el video en pantalla completa:</p>
 
-[![Demo](preview.png)](https://asoto59g.github.io/Analisis_Comunidades_IA/)
+<a href="https://asoto59g.github.io/Analisis_Comunidades_IA/" target="_blank">
+  <img src="preview.png" alt="Demo del proyecto" width="600">
+</a>
 
 Aplicancion en la web en siguiente link:  https://hgw8axhgdu7zbvd2yxcyt7.streamlit.app/
 
