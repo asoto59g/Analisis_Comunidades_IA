@@ -1,0 +1,12 @@
+streamlit
+osmnx
+geopandas
+folium
+streamlit-folium
+ultralytics
+requests
+opencv-python-headless
+Pillow
+shapely
+numpy
+pandas
