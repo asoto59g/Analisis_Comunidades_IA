@@ -1,4 +1,4 @@
-# 🏙️ Aplicación de Análisis de Infraestructura en Comunidades (Open Source) Python
+# 🏙️ Software de Análisis de Infraestructura en Comunidades (Open Source) Python
 
 <h2>🎥 Video Demo</h2>
 
