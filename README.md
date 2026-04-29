@@ -4,7 +4,7 @@
 
 <p>Haz clic en la imagen para ver el video en pantalla completa:</p>
 
-<a href="(https://asoto59g.github.io/Infraestructura_Comunidades_IA/)" target="_blank">
+<a href="[https://asoto59g.github.io/Infraestructura_Comunidades_IA/]" target="_blank">
   <img src="preview.png" alt="Demo del proyecto" width="600">
 </a>
 
